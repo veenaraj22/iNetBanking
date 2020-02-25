@@ -1,0 +1,120 @@
+2019-12-27 21:37:24,882 INFO  [ebanking] browser launched 
+2019-12-27 21:37:25,047 INFO  [ebanking] user name entered 
+2019-12-27 21:37:59,577 INFO  [ebanking] browser launched 
+2019-12-27 21:37:59,729 INFO  [ebanking] user name entered 
+2019-12-27 21:38:36,711 INFO  [ebanking] browser launched 
+2019-12-27 21:38:36,913 INFO  [ebanking] user name entered 
+2019-12-27 21:39:14,728 INFO  [ebanking] browser launched 
+2019-12-27 21:39:14,889 INFO  [ebanking] user name entered 
+2019-12-27 21:40:09,011 INFO  [ebanking] browser launched 
+2019-12-27 21:40:09,166 INFO  [ebanking] user name entered 
+2019-12-27 21:48:44,690 INFO  [ebanking] browser launched 
+2019-12-27 21:48:44,886 INFO  [ebanking] user name entered 
+2019-12-27 21:50:50,901 INFO  [ebanking] browser launched 
+2019-12-27 21:50:51,066 INFO  [ebanking] user name entered 
+2019-12-27 23:02:15,793 INFO  [ebanking] browser launched 
+2019-12-27 23:02:15,950 INFO  [ebanking] user name entered 
+2019-12-27 23:02:18,624 INFO  [ebanking] test pass 
+2019-12-27 23:56:33,359 INFO  [ebanking] browser launched 
+2019-12-27 23:56:33,561 INFO  [ebanking] user name entered 
+2019-12-27 23:56:35,170 INFO  [ebanking] test pass 
+2019-12-28 00:52:11,075 INFO  [ebanking] browser launched 
+2019-12-28 00:52:11,228 INFO  [ebanking] user name entered 
+2019-12-28 00:52:13,503 INFO  [ebanking] test pass 
+2019-12-29 00:50:57,312 INFO  [ebanking] user name entered 
+2019-12-29 00:51:08,269 INFO  [ebanking] user name entered 
+2019-12-29 00:54:15,389 INFO  [ebanking] user name entered 
+2019-12-29 00:54:18,223 ERROR [ebanking] test is passed 
+2019-12-29 00:54:26,465 INFO  [ebanking] user name entered 
+2019-12-29 00:54:29,674 ERROR [ebanking] test is passed 
+2019-12-31 00:02:27,010 INFO  [ebanking] browser launched 
+2019-12-31 00:02:27,195 INFO  [ebanking] user name entered 
+2019-12-31 00:02:28,887 INFO  [ebanking] test pass 
+2019-12-31 00:02:37,776 INFO  [ebanking] user name entered 
+2019-12-31 00:02:40,531 ERROR [ebanking] test is passed 
+2019-12-31 00:02:47,789 INFO  [ebanking] user name entered 
+2019-12-31 00:02:51,325 ERROR [ebanking] test is passed 
+2019-12-31 00:22:26,329 INFO  [ebanking] browser launched 
+2019-12-31 00:22:26,501 INFO  [ebanking] user name entered 
+2019-12-31 00:22:28,830 INFO  [ebanking] test pass 
+2019-12-31 00:22:35,681 INFO  [ebanking] user name entered 
+2019-12-31 00:22:38,196 ERROR [ebanking] test is passed 
+2019-12-31 00:22:47,605 INFO  [ebanking] user name entered 
+2019-12-31 00:22:51,030 ERROR [ebanking] test is passed 
+2019-12-31 00:24:25,485 INFO  [ebanking] user name entered 
+2019-12-31 00:24:29,033 ERROR [ebanking] test is passed 
+2019-12-31 00:24:36,987 INFO  [ebanking] user name entered 
+2019-12-31 00:24:40,050 ERROR [ebanking] test is passed 
+2019-12-31 00:26:56,673 INFO  [ebanking] user name entered 
+2019-12-31 00:26:59,424 ERROR [ebanking] test is passed 
+2019-12-31 00:27:06,779 INFO  [ebanking] user name entered 
+2019-12-31 00:27:09,676 ERROR [ebanking] test is passed 
+2019-12-31 00:29:45,089 INFO  [ebanking] user name entered 
+2019-12-31 00:29:47,454 ERROR [ebanking] test is passed 
+2019-12-31 00:29:54,811 INFO  [ebanking] user name entered 
+2019-12-31 00:29:57,562 ERROR [ebanking] test is passed 
+2019-12-31 00:30:47,729 INFO  [ebanking] user name entered 
+2019-12-31 00:30:50,948 ERROR [ebanking] test is passed 
+2019-12-31 00:30:59,526 INFO  [ebanking] user name entered 
+2019-12-31 00:31:03,202 ERROR [ebanking] test is passed 
+2019-12-31 00:31:11,709 INFO  [ebanking] user name entered 
+2019-12-31 00:31:14,497 ERROR [ebanking] test is passed 
+2019-12-31 00:59:55,671 INFO  [ebanking] user name entered 
+2019-12-31 00:59:56,306 ERROR [ebanking] test is failed 
+2019-12-31 01:00:04,078 INFO  [ebanking] user name entered 
+2019-12-31 01:00:04,641 ERROR [ebanking] test is failed 
+2019-12-31 01:20:04,901 INFO  [ebanking] user name entered 
+2019-12-31 01:20:05,568 ERROR [ebanking] test is failed 
+2020-02-20 00:30:58,184 INFO  [ebanking] browser launched 
+2020-02-20 00:30:58,406 INFO  [ebanking] user name entered 
+2020-02-20 00:31:52,956 INFO  [ebanking] browser launched 
+2020-02-20 00:31:53,100 INFO  [ebanking] user name entered 
+2020-02-20 00:34:49,704 INFO  [ebanking] browser launched 
+2020-02-20 00:34:49,852 INFO  [ebanking] user name entered 
+2020-02-20 00:34:51,335 INFO  [ebanking] test pass 
+2020-02-20 00:35:52,071 INFO  [ebanking] browser launched 
+2020-02-20 00:35:52,219 INFO  [ebanking] user name entered 
+2020-02-20 00:35:54,460 INFO  [ebanking] test pass 
+2020-02-20 00:36:03,922 INFO  [ebanking] user name entered 
+2020-02-20 00:36:04,510 ERROR [ebanking] test is failed 
+2020-02-20 00:36:14,380 INFO  [ebanking] user name entered 
+2020-02-20 00:36:14,910 ERROR [ebanking] test is failed 
+2020-02-20 01:05:10,645 INFO  [ebanking] browser launched 
+2020-02-20 01:05:10,778 INFO  [ebanking] user name entered 
+2020-02-20 01:05:12,255 INFO  [ebanking] test pass 
+2020-02-20 01:05:19,486 INFO  [ebanking] user name entered 
+2020-02-20 01:05:20,015 ERROR [ebanking] test is failed 
+2020-02-20 01:05:27,936 INFO  [ebanking] user name entered 
+2020-02-20 01:05:28,442 ERROR [ebanking] test is failed 
+2020-02-20 23:40:30,827 INFO  [ebanking] browser launched 
+2020-02-20 23:40:31,073 INFO  [ebanking] user name entered 
+2020-02-20 23:40:33,408 INFO  [ebanking] test pass 
+2020-02-24 12:26:46,180 INFO  [ebanking] browser launched 
+2020-02-24 12:26:46,537 INFO  [ebanking] user name entered 
+2020-02-24 12:26:48,067 INFO  [ebanking] test pass 
+2020-02-24 12:49:51,848 INFO  [ebanking] browser launched 
+2020-02-24 12:49:51,987 INFO  [ebanking] user name entered 
+2020-02-24 12:49:53,907 INFO  [ebanking] test pass 
+2020-02-24 19:54:48,967 INFO  [ebanking] browser launched 
+2020-02-24 19:54:49,151 INFO  [ebanking] user name entered 
+2020-02-24 19:54:50,862 INFO  [ebanking] test pass 
+2020-02-24 19:58:09,810 INFO  [ebanking] browser launched 
+2020-02-24 19:58:09,985 INFO  [ebanking] user name entered 
+2020-02-24 19:58:11,952 INFO  [ebanking] test pass 
+2020-02-24 20:08:13,573 INFO  [ebanking] browser launched 
+2020-02-24 20:08:13,719 INFO  [ebanking] user name entered 
+2020-02-24 20:08:15,772 INFO  [ebanking] test pass 
+2020-02-25 12:29:58,755 INFO  [ebanking] browser launched 
+2020-02-25 12:29:58,914 INFO  [ebanking] user name entered 
+2020-02-25 12:30:00,928 INFO  [ebanking] test pass 
+2020-02-25 12:30:11,353 INFO  [ebanking] user name entered 
+2020-02-25 12:30:11,931 ERROR [ebanking] test is failed 
+2020-02-25 12:30:24,786 INFO  [ebanking] user name entered 
+2020-02-25 12:30:30,388 ERROR [ebanking] test is failed 
+2020-02-25 12:34:25,620 INFO  [ebanking] browser launched 
+2020-02-25 12:34:25,791 INFO  [ebanking] user name entered 
+2020-02-25 12:34:28,091 INFO  [ebanking] test pass 
+2020-02-25 12:34:37,085 INFO  [ebanking] user name entered 
+2020-02-25 12:34:37,615 ERROR [ebanking] test is failed 
+2020-02-25 12:34:45,742 INFO  [ebanking] user name entered 
+2020-02-25 12:34:46,536 ERROR [ebanking] test is failed 

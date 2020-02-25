@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 37.655 s <<< FAILURE! - in TestSuite
+com.inNetbankingv1.test.TestCase_002.loginDDT  Time elapsed: 0.044 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+	at com.inNetbankingv1.test.TestCase_002.loginDDT(TestCase_002.java:17)
+
